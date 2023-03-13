@@ -1,6 +1,5 @@
 # payday-api-client
-A JavaScript / TypeScript API Client for Payday\
-
+A JavaScript / TypeScript API Client for Payday
 
 ## Overview
 
