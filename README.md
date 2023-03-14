@@ -18,9 +18,9 @@ To use payday-node API Client, you need to first create an instance of the Payda
 TypeScript:
 
 ```typescript
-import { PaydayAPIClient, PaydayAPIClientConfiguration } from 'payday-api-client';
-import { CreateBearerTokenRequest } from 'payday-api-client/requests';
-import { CreateBearerToken200Response } from 'payday-api-client/responses';
+import { PaydayAPIClient, PaydayAPIClientConfiguration } from 'payday-node';
+import { CreateBearerTokenRequest } from 'payday-node/requests';
+import { CreateBearerToken200Response } from 'payday-node/responses';
 
 const config: PaydayAPIClientConfiguration = {
     environment: 'production'
