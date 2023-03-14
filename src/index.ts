@@ -1,2 +1,2 @@
-import {PaydayAPIClient} from './payday-api-client';
-export {PaydayAPIClient};
+import { PaydayAPIClient } from './payday-api-client'
+export { PaydayAPIClient }

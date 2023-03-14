@@ -1,9 +1,8 @@
-
 export interface Request {
-	[key: string]: any
+    [key: string]: any
 }
 
 export interface CreateBearerTokenRequest extends Request {
-	clientId: string,
-	clientSecret: string
+    clientId: string
+    clientSecret: string
 }
