@@ -2,6 +2,14 @@
   "name": "payday-node",
   "version": "0.0.1",
   "description": "A JavaScript / TypeScript API Client for Payday.",
+  "keywords": [
+    "payday",
+    "api",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Egill Anton Hlöðversson",
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "esm/index.js",
   "types": "dist/index.d.ts",
@@ -24,8 +32,6 @@
     "type": "git",
     "url": "git+https://github.com/egillanton/payday-api-client.git"
   },
-  "author": "Egill Anton Hlöðversson",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/egillanton/payday-api-client/issues"
   },
