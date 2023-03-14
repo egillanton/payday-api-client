@@ -1,5 +1,5 @@
 {
-  "name": "@egillanton/payday-api-client",
+  "name": "payday-node",
   "version": "0.0.1",
   "description": "A JavaScript / TypeScript API Client for Payday.",
   "main": "dist/index.js",
